@@ -147,12 +147,14 @@ public class Day12Work {
     }
 
     public static void main(String[] args) {
+        //UNCOMMENT WHICHEVER METHOD YOU WANT TO RUN//
+
         //ScannerVideo();
         //JOptionPlaneVideo();
         //SwitchStatments();
         //RunningTotals();
         //SentinelValues();
         //ArraysandFiles();
-        ArrayLists();
+        //ArrayLists();
     }
 }
