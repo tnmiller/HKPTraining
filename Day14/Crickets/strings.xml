@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Temperature Cricket</string>
+    <string name="instructions">Did you know you can determine the temperature \n outside by counting the number of chirps the \n cricket makes? Just count the number of chirps \n one makes in 25 seconds and place that number \n in the box below:</string>
+    <string name="btnLabel">Calculate Temperature</string>
+    <string name="etHint">Enter number of chirps</string>
+</resources>
